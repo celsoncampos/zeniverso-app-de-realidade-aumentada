@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>888013722544-d2ap5op3ebuiq08jduggv3b16q7gc0ql.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.888013722544-d2ap5op3ebuiq08jduggv3b16q7gc0ql</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCxSDnX-NKjd0yz5yrWhqdlt4W53gphRXE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>888013722544</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.Together.Zenit</string>
+	<key>PROJECT_ID</key>
+	<string>zeniverso-7441d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>zeniverso-7441d.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:888013722544:ios:5a7ec53116254a98473c75</string>
+</dict>
+</plist>

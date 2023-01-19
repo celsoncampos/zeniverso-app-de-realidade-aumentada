@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "888013722544",
+    "project_id": "zeniverso-7441d",
+    "storage_bucket": "zeniverso-7441d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888013722544:android:6b2c1a6b6bebc769473c75",
+        "android_client_info": {
+          "package_name": "com.Together.Zenit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888013722544-8k23qhirqq0a5pj7v9obqultv139dig9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgyr1u3bkWVbnyVqT7f48rMjJRhASJ4tA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888013722544-8k23qhirqq0a5pj7v9obqultv139dig9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
